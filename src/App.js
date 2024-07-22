@@ -5,8 +5,8 @@ import Todo1 from './components/Todo1';
 function App() {
   return (
     <div className="App">
-      this is text
-      {/* <Todo1></Todo1> */}
+      {/* this is text/ */}
+      <Todo1></Todo1>
     </div>
   );
 }
