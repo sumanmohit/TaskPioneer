@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       this is text
-      <Todo1></Todo1>
+      {/* <Todo1></Todo1> */}
     </div>
   );
 }
