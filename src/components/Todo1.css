@@ -1,0 +1,27 @@
+.todoList {
+  /* background-color: rgb(5, 5, 41); */
+  height: 100vh;
+  color: black;
+}
+
+.todoContainer {
+  background-color: #eff1f2;
+}
+
+.header_image img {
+  height: 100px;
+  width: 100px;
+}
+
+.itemsList img {
+  height: 30px;
+  width: 30px;
+  fill: #04abff;
+  color: aliceblue;
+  -webkit-text-fill-color: aliceblue;
+}
+
+.editItem,
+.deleteItem{
+  cursor: pointer;
+}
